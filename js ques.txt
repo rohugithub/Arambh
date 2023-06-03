@@ -1,0 +1,31 @@
+// What is static and dynamic languages? is JS dynamic? explain why?
+// What is declaration?
+// What is initialization?
+// What is reinitialisation or updation?
+// Add, sub, mul, div of variables
+// Declare a variable a and b and store value 10 and 20 respectively and add them and print in the form of "Answer is 30"
+
+
+//What is Prompt and why we use it?
+//Write a JS program, age 2 numbers and give thier sum in output
+//Hoisting
+//concatination
+//Data type in js 
+//Convert string to number 
+//What is NaN
+
+// Ask a user his/her name and pertentage in 12th, if percentage is greater tha 90
+// format of output : 
+// if yes = userKaName You are eligible for scholarship  
+// else = userKaName You missed scholarship by 10 marks
+
+Ask a user his/her name and age and tell him he can vote or not. 
+format of output : 
+if yes = userKaName You are eligible to vote 
+else = userKaName You are not eligible to vote
+
+ask a user his marks in 3 subjects and if they are more than 80% then show congrats you got A grade 
+ask a user radius of a circle and check if area is greater than 1000 or not
+
+ask a user 3 sides of triange and check it is Equilateral or not 
+What is defference b/w '==' and '==='
